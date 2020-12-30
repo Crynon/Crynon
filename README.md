@@ -1,4 +1,4 @@
-### Hi there 👋
+Writing terrible code and hoping it works...
 
 <!--
 **Crynon/Crynon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
